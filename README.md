@@ -104,6 +104,4 @@ Top customers by spend: Displays the highest spending customers per year using a
 
 Cumulative sales trend: Line charts showing sales trends over time.
 
-License
 
-This project is licensed under the MIT License.
